@@ -67,6 +67,12 @@
   color: #525252;
 }
 
+.empresa-texto a {
+  text-decoration: none;
+  color: #67dd0a;
+  font-weight: bold;
+}
+
 .empresa-habilidade {
   display: flex;
   flex-wrap: wrap;
